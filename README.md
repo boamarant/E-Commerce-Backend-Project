@@ -1,4 +1,4 @@
-# Note-Taker-Application
+# E-Commerce Backend Project
 
 ## Description
 
